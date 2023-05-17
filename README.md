@@ -34,6 +34,10 @@ cd object_centric_ovd
 pip install -r requirements.txt
 ```
 
+从[此链接](https://drive.google.com/drive/folders/1Yg6_9lA1TspTxXtqYoQxlYalgafD5qTx?usp=sharing)安装模型，放入model_zoo文件夹
+
+
+
 ## 运行
 
 * 一个以ovd为为detector，以custom为词典，以bycicle,person,tree为目标的示例：
